@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+  }
+  
+  canvas {
+      background-color: black;
+      border:1px solid grey;
+  }
+  
+  p {
+      color: white;
+      font-family: "Futura";
+  }
+  
+  
